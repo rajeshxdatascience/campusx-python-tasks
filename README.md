@@ -1,2 +1,7 @@
-# campusx-python-tasks
-“Python tasks and projects as part of CampusX Data Science Mentorship Program”
+# CampusX Python Tasks
+
+This repository contains Python practice tasks completed as part of the CampusX Data Science Mentorship Program.
+
+## ✅ Completed
+
+- Task 1: Variables, Print, Input, Temperature conversion, Distance, Simple Interest
